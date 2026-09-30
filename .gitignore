@@ -1,0 +1,40 @@
+# Temporary archives only
+/tools/*.zip
+/tools/*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local downloads / reports
+*.part
+*.ytdl
+*.temp
+.ytd-temp/
+download_report.txt
+
+# Secrets / local configuration
+.env
+.env.*
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
