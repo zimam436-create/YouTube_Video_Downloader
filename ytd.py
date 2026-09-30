@@ -1645,7 +1645,7 @@ def main():
 
     print()
     print("=" * 70)
-    print(f"YTD - YouTube Downloader v{APP_VERSION}")
+    print(f"Zamify YouTube Downloader v{APP_VERSION} Made By Zimam")
     print("=" * 70)
 
     print()
